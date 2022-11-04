@@ -1,0 +1,19 @@
+{
+  "name": "accounts",
+  "version": "1.0.0",
+  "description": "Project accounts, developing for learn nodejs",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.mjs"
+  },
+  "keywords": [
+    "accounts"
+  ],
+  "author": "cortelucas",
+  "license": "(MIT)",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "inquirer": "^9.1.4"
+  }
+}
