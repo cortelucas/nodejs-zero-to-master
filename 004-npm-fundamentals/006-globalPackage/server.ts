@@ -15,7 +15,7 @@ const server = createServer((request: IncomingMessage, response: ServerResponse)
     }
     default: {
       response.statusCode = 404;
-      response.end();
+      response.end("Error 404 - Página não encontrada");
     }
   }
 })
