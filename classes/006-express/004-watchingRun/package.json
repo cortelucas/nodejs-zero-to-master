@@ -1,0 +1,12 @@
+{
+  "name": "004-watchingrun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.mjs",
+  "scripts": {
+    "start": "node --watch main.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
